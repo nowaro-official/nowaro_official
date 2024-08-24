@@ -46,11 +46,22 @@
 
 ###
 
+<h3 align="left">My Social Media</h3>
+
+###
+
 <img align="right" height="200" src="https://cdn.leonardo.ai/users/448575ec-2432-4881-8c84-d8f925a25b2f/generations/ef1da7b6-1973-4e63-b541-bb8c37e0a2d8/variations/Default_Create_an_animestyle_profile_picture_of_a_young_adult_3_ef1da7b6-1973-4e63-b541-bb8c37e0a2d8_0.png"  />
 
 ###
 
-<h3 align="left">My Social Media</h3>
+<div align="left">
+  <a href="https://www.instagram.com/kainow_code/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@kainow-code" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
 ###
 
@@ -60,16 +71,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/kainow_code/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.instagram.com/kainow_code/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kainow-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
