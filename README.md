@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kainow-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kainow-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">My programs</h3>
 
 ###
@@ -53,11 +46,17 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.leonardo.ai/users/448575ec-2432-4881-8c84-d8f925a25b2f/generations/ef1da7b6-1973-4e63-b541-bb8c37e0a2d8/variations/Default_Create_an_animestyle_profile_picture_of_a_young_adult_3_ef1da7b6-1973-4e63-b541-bb8c37e0a2d8_0.png"  />
+<img align="right" height="200" src="https://cdn.leonardo.ai/users/448575ec-2432-4881-8c84-d8f925a25b2f/generations/ef1da7b6-1973-4e63-b541-bb8c37e0a2d8/variations/Default_Create_an_animestyle_profile_picture_of_a_young_adult_3_ef1da7b6-1973-4e63-b541-bb8c37e0a2d8_0.png"  />
 
 ###
 
 <h3 align="left">My Social Media</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kainow-code.kainow-code&left_color=darkslategrey&right_color=yellow"  />
 
 ###
 
@@ -72,6 +71,10 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kainow-code.kainow-code&left_color=darkslategrey&right_color=yellow"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kainow-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kainow-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kainow-code&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
