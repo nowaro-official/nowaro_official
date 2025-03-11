@@ -67,16 +67,16 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kainow-code.kainow-code&left_color=darkslategrey&right_color=yellow"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nowaro-official.nowaro-official&left_color=darkslategrey&right_color=yellow"  />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kainow-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kainow-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kainow-code&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nowaro-official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nowaro-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowaro-official&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
